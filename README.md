@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elef-tq&label=Profile%20views&color=0e75b6&style=flat" alt="elef-tq" /> </p>
 
-- 🔭 I’m currently working on **enLingne Shop Project**
+- 🔭 I’m currently working on **Phamacy Management System Application**
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **Java/JavaFX/JavaDB**
 
 - 👯 I’m looking to collaborate on **new Project to improve my skills**
 
