@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elef-tq&label=Profile%20views&color=0e75b6&style=flat" alt="elef-tq" /> </p>
 
 
-- 🔭 I’m currently working on **Library Management System (descktop application )**
+- 🔭 I’m currently working on **Library Management System (Java) **
 
 - 🌱 I’m currently learning **Nodejs - Nextjs**
 
