@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **new Project to improve my skills**
 
-- 👨‍💻 All of my projects are available at [https://eleftq.netlify.app](https://eleftq.netlify.app)
+- 👨‍💻 All of my projects are available at **[https://eleftq.netlify.app](https://eleftq.netlify.app)**
 
 - 📫 How to reach me **tariq75aitlakhlift@gmail.com**
 
