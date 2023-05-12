@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Library Management System (Java)**
 
-- 🌱 I’m currently learning **Nodejs - Nextjs**
+- 🌱 I’m currently learning **Nodejs**
 
 - 👯 I’m looking to collaborate on **new Project to improve my skills**
 
