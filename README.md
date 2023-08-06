@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elef-tq&label=Profile%20views&color=0e75b6&style=flat" alt="elef-tq" /> </p>
 
 
-- 🔭 I’m currently working on **E-commerce website (React)**
+- 🔭 I’m currently working on **RealTime chat App**
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **Express-MongoDB-Socket.io**
 
 - 👯 I’m looking to collaborate on **new Project to improve my skills**
 
