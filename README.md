@@ -108,6 +108,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ELEF-TQ/ELEF-TQ/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/ELEF-TQ/ELEF-TQ/blob/output/github-contribution-grid-snake.gif)
 
 ###
