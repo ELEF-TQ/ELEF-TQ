@@ -65,7 +65,7 @@
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo"  />
   <img width="13" />
-  <img src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="50" alt="nestjs logo"  />
+  <img src=https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg height="50" alt="nestjs logo"  />
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
   <img width="13" />
