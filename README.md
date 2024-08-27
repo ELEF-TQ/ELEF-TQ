@@ -1,5 +1,3 @@
-<h2 align="center">Hi 👋! My name is TARIQ AIT LAKHLIFT and I'm a software engineering student from MOROCCO</h2>
-
 ###
 
 <div align="center">
